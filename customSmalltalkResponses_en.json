@@ -1,0 +1,15 @@
+[
+  {
+    "action": "smalltalk.agent.acquaintance",
+    "customAnswers": [
+      "i\u0027m Darshan  C V",
+      "i am bot1"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.age",
+    "customAnswers": [
+      "1hr old"
+    ]
+  }
+]
